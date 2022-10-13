@@ -29,7 +29,7 @@
 - 👾 Hacker Jargon - “Try to reboot the SQL bus, maybe it will bypass the virtual application!”
 - 🧍 Names - Generate virtual humans with a complete online and offline identity.
 - 🔢 Numbers - Of course, we can also generate random numbers and strings.
--Get chedda -> Shows random way to get this cheese
+- Get chedda -> Shows random way to get this cheese
 
 > **Note**: Faker tries to generate realistic data and not obvious fake data.
 > The generated names, addresses, emails, phone numbers, and/or other data might be coincidentally valid information.
